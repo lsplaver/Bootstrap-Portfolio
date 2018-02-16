@@ -4,6 +4,7 @@ html {
   }
   body {
     margin-bottom: 60px; /* Margin bottom by footer height */
+    background-image: url("../assets/images/ep_naturalblack.png");
   }
   .footer {
     position: absolute;
